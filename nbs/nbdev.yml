@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbev-hello-world"
+  site-url: "https://mrtushartiwari.github.io/nbev-hello-world"
+  description: "test nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/mrtushartiwari/nbev-hello-world"
